@@ -1,0 +1,5 @@
+in query selector, we could select only a single element, and to select an array of those, we used querySelectorAll.
+to simplify this we can use jQuery, ie the $ sign to select all the elements.
+
+$("h1").css("color","red");
+if you have two attributes, the you are setting the value, and if you have only one, you are getting the values...
